@@ -2,12 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-@media screen and (min-width: 992px) {
-    body {
-        background-color: aqua;
-    }
-}
-
 * {
     font-family: 'Inter';
     padding: 0px;
