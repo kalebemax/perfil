@@ -1,7 +1,7 @@
 @media screen and (min-width: 992px) { 
    
     .conteiner {
-        height: 75vh;
+        height: 70vh;
         width: 30vw;
     }
     
@@ -9,6 +9,8 @@
     a {
         width: 300px;
         height: 20px;
+        padding: 10px;
+        margin: 10px;
     }
 
     p {
